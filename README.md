@@ -9,11 +9,11 @@
 
 
 
-<p align="center">
+<div align="center">
   <h3>Techs</h3>
   <img align="center" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /></a>
   <img align="center" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /></a>
-</p>
+</div>
 
 <!--
 **Lee-Minhoon/Lee-Minhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
