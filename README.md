@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/static/v1?label=<Python-3766AB>&message=<MESSAGE>&color=<COLOR>&style=flat-square">
 
-<img src="https://img.shields.io/badge/asdf-<asd>-<COLOR>"/>
+<img src="https://img.shields.io/badge/asdf-<asd>-<white>"/>
 
 
 
