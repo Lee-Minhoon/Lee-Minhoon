@@ -7,7 +7,7 @@
   <img height="204" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" />
 </a>
 
-<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>">
+<img src="https://img.shields.io/badge/Python">
 
 <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=flat-square">
 
