@@ -7,12 +7,7 @@
   <img height="204" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" />
 </a>
 
-<img align="center" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /></a>
-<img align="center" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /></a>
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+<img align="center" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /><img align="center" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
 
 <!--
 **Lee-Minhoon/Lee-Minhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
