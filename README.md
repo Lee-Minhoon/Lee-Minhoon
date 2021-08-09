@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=flat-square">
+<img src="https://img.shields.io/static/v1?label=<Python-3766AB>&message=<MESSAGE>&color=<COLOR>&style=flat-square">
 
 <img src="https://img.shields.io/badge/<LABEL>-<asd>-<COLOR>"/>
 
