@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Minhoon)](https://github.com/anuraghazra/github-readme-stats)
 
-[googlelink]: https://google.com
+[googlelink]: https://google.com "Go google"
 
 <!--
 **Lee-Minhoon/Lee-Minhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
