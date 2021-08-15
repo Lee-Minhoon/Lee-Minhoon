@@ -7,8 +7,6 @@
   <img height="204" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" />
 </a>
 
-
-
 <div align="center">
   <h3>Tech Stack</h3>
   <img align="center" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /></a>
