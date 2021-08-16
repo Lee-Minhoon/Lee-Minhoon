@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-  <img height="204" align="center" src="https://github-readme-stats.vercel.app/api?username=Lee-Minhoon&count_private=true&show_icons=true&theme=graywhite" />
-</a>
-  <img height="204" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" />
+<img height="204" align="center" src="https://github-readme-stats.vercel.app/api?username=Lee-Minhoon&count_private=true&show_icons=true&theme=graywhite" /></a>
+<img height="204" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" />
 </a>
 
 <div align="center">
