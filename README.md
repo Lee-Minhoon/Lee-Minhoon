@@ -1,19 +1,10 @@
 ### Hi there 👋
 
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="204" align="center" src="https://github-readme-stats.vercel.app/api?username=Lee-Minhoon&count_private=true&show_icons=true&theme=graywhite" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="204" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" />
-</a>
-
-<a style="text-decoration:none" href="https://github.com/anuraghazra/convoychat">
-  <img border="0" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a style="text-decoration:none" href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="204" align="center" src="https://github-readme-stats.vercel.app/api?username=Lee-Minhoon&count_private=true&show_icons=true&theme=graywhite" />
 </a>
 
 
@@ -30,6 +21,7 @@
   <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></a>
   <img align="center" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /></a>
 </div>
+
 
 <!--
 **Lee-Minhoon/Lee-Minhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
