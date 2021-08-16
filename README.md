@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height="204" align="center" src="https://github-readme-stats.vercel.app/api?username=Lee-Minhoon&count_private=true&show_icons=true&theme=graywhite" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
