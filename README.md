@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-<style type="text/css">
 
-/* 링크에서 밑줄 없애기 */
 a.no-uline { text-decoration:none }
 
-/* 마우스 지나갈 때만 삭제 + 강제로 없애기 */
 a.noul:hover { text-decoration:none !important }
-
-</style>
 
 
 
