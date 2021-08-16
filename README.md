@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-a.no-uline { text-decoration:none }
-
-a.noul:hover { text-decoration:none !important }
-
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,10 +9,10 @@ a.noul:hover { text-decoration:none !important }
   <img height="204" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a style="text-decoration:none" href="https://github.com/anuraghazra/convoychat">
   <img border="0" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a style="text-decoration:none" href="https://github.com/anuraghazra/github-readme-stats">
   <img height="204" align="center" src="https://github-readme-stats.vercel.app/api?username=Lee-Minhoon&count_private=true&show_icons=true&theme=graywhite" />
 </a>
 
