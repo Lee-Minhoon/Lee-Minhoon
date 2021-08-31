@@ -21,6 +21,7 @@
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" /></a>
   <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></a>
   <img align="center" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /></a>
+  <img align="center" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" /></a>
 </div>
 
 
