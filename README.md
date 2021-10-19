@@ -1,5 +1,3 @@
-### Hi there
-
 https://lee-minhoon.github.io/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
