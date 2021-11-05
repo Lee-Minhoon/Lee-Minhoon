@@ -1,9 +1,9 @@
 https://lee-minhoon.github.io/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="186" align="center" src="https://github-readme-stats.vercel.app/api?username=Lee-Minhoon&count_private=true&show_icons=true&theme=graywhite" /></a>
+  <img height="196" align="center" src="https://github-readme-stats.vercel.app/api?username=Lee-Minhoon&count_private=true&show_icons=true&theme=graywhite" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="186" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" /></a>
+  <img height="196" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Minhoon&langs_count=10&layout=compact&show_icons=true&theme=graywhite" /></a>
   
 <div align="center">
   <h3>Tech Stack</h3>
